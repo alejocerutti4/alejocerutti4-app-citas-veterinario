@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/css/main.a9d78a53.chunk.css",
+    "main.js": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/main.61c4dd61.chunk.js",
+    "main.js.map": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/main.61c4dd61.chunk.js.map",
+    "runtime-main.js": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/runtime-main.027d6ae9.js",
+    "runtime-main.js.map": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/runtime-main.027d6ae9.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.661041eb.chunk.js": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/2.661041eb.chunk.js",
+    "static/js/2.661041eb.chunk.js.map": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/2.661041eb.chunk.js.map",
+    "static/js/3.1dc8bd15.chunk.js": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/3.1dc8bd15.chunk.js",
+    "static/js/3.1dc8bd15.chunk.js.map": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/3.1dc8bd15.chunk.js.map",
+    "index.html": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.a9d78a53.chunk.css.map": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/css/main.a9d78a53.chunk.css.map",
+    "static/js/2.661041eb.chunk.js.LICENSE.txt": "/alejocerutti4/app-citas-veterinario/blob/gh-pages/index.html/static/js/2.661041eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.027d6ae9.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.661041eb.chunk.js",
+    "static/css/main.a9d78a53.chunk.css",
+    "static/js/main.61c4dd61.chunk.js"
+  ]
+}
