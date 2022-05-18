@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/alejocerutti4/app-citas-veterinario.git",
-  "name": "administrador-pacientes",
+  "homepage": "https://alejocerutti4.github.io/app-citas-veterinario",
+  "name": "app-citas-veterinario",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
